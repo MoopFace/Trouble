@@ -16,6 +16,9 @@ the dwarf origin's nightvision is now toggleable with the secondary ability key
   
 _NOTE_ some of these files don't change/overrwrite anything and are just there for reference
 these files include -
+
 src/trouble/data/tetra/tags/blocks/deepslate_ore_replaceables.json - lists the types of blocks that geodes can inhabit
+
 src/trouble/data/tetra/tags/worldgen/forge/biome_modifier/geode_oregen.json - just for reference
+
 src/trouble/data/tetra/tags/worldgen/worldgen/placed_feature/geode_ore.json
