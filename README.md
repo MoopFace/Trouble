@@ -21,4 +21,4 @@ src/trouble/data/tetra/tags/blocks/deepslate_ore_replaceables.json - lists the t
 
 src/trouble/data/tetra/tags/worldgen/forge/biome_modifier/geode_oregen.json - just for reference
 
-src/trouble/data/tetra/tags/worldgen/worldgen/placed_feature/geode_ore.json
+src/trouble/data/tetra/tags/worldgen/worldgen/placed_feature/geode_ore.json - just for reference
